@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="699537b8-6ac1-4402-b342-5cf8f0553060" name="Default Changelist" comment="about">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TmngDeTkEAS1DKW3EcAb7T6zA4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\Luts91.github.io\img" />
+      <recent name="C:\Git\Luts91.github.io\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\Luts91.github.io" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="gaDisclaimer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Luts91.github.io/gaDisclaimer.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Luts91.github.io/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Luts91.github.io/idle-idle-gamedev/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Luts91.github.io/node_modules/mdbootstrap/index.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.gaDisclaimer.html" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.gaDisclaimer.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lutz Schönfelder\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="699537b8-6ac1-4402-b342-5cf8f0553060" name="Default Changelist" comment="" />
+      <created>1541399574362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541399574362</updated>
+      <workItem from="1541399575858" duration="7039000" />
+      <workItem from="1541481646759" duration="1210000" />
+      <workItem from="1542359402941" duration="6470000" />
+      <workItem from="1542710045914" duration="613000" />
+      <workItem from="1543476906985" duration="4267000" />
+      <workItem from="1550218903979" duration="727000" />
+      <workItem from="1550540418608" duration="616000" />
+      <workItem from="1563507409323" duration="814000" />
+      <workItem from="1563607188387" duration="10000" />
+      <workItem from="1563607213005" duration="669000" />
+      <workItem from="1569458452806" duration="4398000" />
+      <workItem from="1569873355657" duration="632000" />
+      <workItem from="1574074249235" duration="1833000" />
+      <workItem from="1574267052806" duration="578000" />
+      <workItem from="1574323029477" duration="37000" />
+      <workItem from="1575573237313" duration="2513000" />
+      <workItem from="1577374899079" duration="881000" />
+    </task>
+    <task id="LOCAL-00001" summary="added adsense">
+      <created>1541401240333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541401240333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added bootsrap">
+      <created>1541425913812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541425913812</updated>
+    </task>
+    <task id="LOCAL-00003" summary="made page nicer and added more games">
+      <created>1541429249626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541429249626</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added crazygames links for idle dice">
+      <created>1542382066937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542382066937</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added google analytics">
+      <created>1542386632570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542386632570</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added animation to cards">
+      <created>1543478933118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543478933118</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated kongregate link">
+      <created>1550218996638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550218996638</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated kongregate link and playstore">
+      <created>1569463452940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569463452940</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated privacy policy">
+      <created>1575575666543</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575575666543</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added adsense" />
+    <MESSAGE value="added bootsrap" />
+    <MESSAGE value="made page nicer and added more games" />
+    <MESSAGE value="added crazygames links for idle dice" />
+    <MESSAGE value="added google analytics" />
+    <MESSAGE value="added animation to cards" />
+    <MESSAGE value="updated kongregate link" />
+    <MESSAGE value="updated kongregate link and playstore" />
+    <MESSAGE value="updated privacy policy" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated privacy policy" />
+  </component>
+</project>
